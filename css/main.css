@@ -14,7 +14,7 @@ html {
 }
 
 .hover-box: hover .hover-box-caption,
-.hover-box: focus .hover-box-caption{
+.hover-box: focus .hover-box-caption {
   bottom: 0;
 }
 
